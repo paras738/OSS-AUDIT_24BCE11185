@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Script 1: System Identity Report
-# Author: Dhruv Chandwani
+# Author: Paras Tripathi
 # Course: Open Source Software
 
 # Variables
-STUDENT_NAME="Dhruv Chandwani"
+STUDENT_NAME="Paras Tripathi"
 SOFTWARE_CHOICE="Python"
 
 # System information
